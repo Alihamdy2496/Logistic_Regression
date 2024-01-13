@@ -11,3 +11,5 @@ and bernouli cost function
 $$
 P(t|W) = \Pi \sigma(W^TX)^{t_n}(1-\sigma(W^TX))^{1-t_n}
 $$
+
+and checking the results using K fold cross validation
